@@ -31,7 +31,7 @@ body {
 .hover_img a {z-index: 999; left: 300px;}
 .hover_img a {transition: all 2s;}
 .hover_img a span {position: absolute; display:none; z-index: 999;}
-.hover_img a:hover span {display:block; z-index: 10; text-align: center; width: 100%; height: 100vh; background:rgba(0,0,0,0.8); transition: opacity 2s ease 3s; }
+.hover_img a:hover span {display:block; z-index: 10; text-align: center; width: 100%; height: 100vh; background:rgba(0,0,0,0.8);}
 
 
 
